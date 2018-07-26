@@ -1,10 +1,10 @@
-##less安装
+#less安装
 npm install -g less   全局安装less
 
-##less编译
+#less编译
 lessc styles.less styles.css
 
-##less压缩编译
+#less压缩编译
 需要用到插件less-plugin-clean-css
 
 **插件安装方法：**
